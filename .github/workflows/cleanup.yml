@@ -26,7 +26,7 @@ jobs:
 
       - name: Run Bash Script with AWS CLI
         run: |
-          bash ../../../cleanup/cleanup.sh
+          bash ../../cleanup/cleanup.sh
 
 
 
